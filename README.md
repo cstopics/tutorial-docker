@@ -1,1 +1,7 @@
-# tutorial-docker
+# Docker 
+
+* run
+* file
+
+
+
